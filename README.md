@@ -7,6 +7,6 @@ Aryan Sood
 
 John Barber-Ormerod
 
-Amita Pathmanathan
+[Amita Pathmanathan](amita-pathmanathan.md)
 
 [Jason Hitching](jason-hitching.md)
