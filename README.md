@@ -5,7 +5,7 @@
 ## Members
 Aryan Sood
 
-John Barber-Ormerod
+[John Barber-Ormerod](John_Barber_Ormerod.md)
 
 [Amita Pathmanathan](amita-pathmanathan.md)
 
