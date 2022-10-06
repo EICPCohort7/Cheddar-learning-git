@@ -3,7 +3,7 @@
 # Team Cheddar
 
 ## Members
-Aryan Sood
+[Aryan Sood](aryan.md)
 
 [John Barber-Ormerod](John_Barber_Ormerod.md)
 
